@@ -1,4 +1,3 @@
 # test4.py
 
-print("test4-1.py!")
-print("hi")
+print("test4-2.py!")
